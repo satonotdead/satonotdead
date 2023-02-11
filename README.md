@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the founder and leader of [Criptonautas](https://criptonautas.co).
+I'm founder and leader of [Criptonautas](https://criptonautas.co).
 
 Not a dev, not an enggineer, not a product manager but working like them because I really enjoy to learn and discover new things.
 
