@@ -2,7 +2,7 @@
 
 I'm founder and leader of [Criptonautas](https://criptonautas.co).
 
-Not a dev, not an enggineer, not a product manager but working like them because I really enjoy to learn and discover new things.
+Not a dev, not an engineer, not a product manager but working like them because I enjoy to learn and discover new things for the crowd.
 
 Currently I'm hiring who want to work with people in a [disruptive concept about work](https://criptonautas.co/hiring).
 
