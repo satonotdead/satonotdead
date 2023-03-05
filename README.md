@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm founder and leader of [Criptonautas](https://criptonautas.co).
+I'm working for [Criptonautas](https://criptonautas.co) but for freedom first, so I was moving out my own profile in order to disable my ID.
 
-Not a dev, not an engineer, not a product manager but working like them because I enjoy to learn and discover new things for the crowd.
+Not a dev, not an engineer, not a product manager but working like them because I enjoy to learn and discover always new things for the crowd.
 
-Currently I'm hiring who want to work with people in a [disruptive concept about work](https://criptonautas.co/hiring).
+> You can ping us (not me) here but also on [Twitter](twitter.com/soycriptonauta) 🛸
 
-> You can ping me here but also on [Twitter](twitter.com/matenauta) 🛸
-
-**XMR donations:** ``49mnEiM7Ho5LMwkD8FrXFKd2gwai66PYUcHLeNk53iMPNGuVGbaK3U6huyrBzJDcaq``
+**XMR donations:** ``87S53AvDDTPVpuuxTZt9aXEp8PJw12sE2F5K1ZoXffz57HkvdfZRZK7d3Bsj3d6hw2L6kXsbG9DrhbmH553kGWPkFpnR12u``
