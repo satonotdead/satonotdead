@@ -6,6 +6,6 @@ Not a dev, not an engineer, not a product manager but working like them because 
 
 I'm building our world with our own rules and I'm learning and showing how to do in that way.
 
-> You can ping us (not me) here but also on [Twitter](twitter.com/soycriptonauta) 🛸
+> You can ping us (not me) here but also on [Twitter](https://twitter.com/soycriptonauta) 🛸
 
 **XMR donations:** ``87S53AvDDTPVpuuxTZt9aXEp8PJw12sE2F5K1ZoXffz57HkvdfZRZK7d3Bsj3d6hw2L6kXsbG9DrhbmH553kGWPkFpnR12u``
