@@ -2,7 +2,7 @@
 
 I'm working for [Criptonautas](https://criptonautas.co) but for freedom first, so I was moving out my own profile in order to disable my ID.
 
-Not a dev, not an engineer, not a product manager but working like them because I enjoy to learn and discover new things for the crowd.
+Not a dev, not an engineer, not a product manager but working that way because I enjoy to learn and discover new things for the crowd.
 
 I'm building our world with our own rules and I'm learning and showing how to do in that way.
 
