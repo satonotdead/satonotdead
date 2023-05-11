@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm building freedom in [Criptonautas](https://criptonautas.co) combining simple UI/UX, multi-language and AI plus ~8 years on cripto and trading by my own.
+I'm building freedom in [Criptonautas](https://criptonautas.co) mixing simple UI/UX, multi-language and AI plus ~8 years on cripto and trading by my own.
 
 I'm not a dev, not an engineer, not a Product Manager but working like them because I enjoy to learn and discover new things for the crowd 🤟
 
