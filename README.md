@@ -8,4 +8,4 @@ Open-source first, always.
 
 > You can ping me here but also on [Twitter](https://twitter.com/soycriptonauta) 🛸
 
-**XMR donations:** ``87S53AvDDTPVpuuxTZt9aXEp8PJw12sE2F5K1ZoXffz57HkvdfZRZK7d3Bsj3d6hw2L6kXsbG9DrhbmH553kGWPkFpnR12u``
+**XMR always:** ``87S53AvDDTPVpuuxTZt9aXEp8PJw12sE2F5K1ZoXffz57HkvdfZRZK7d3Bsj3d6hw2L6kXsbG9DrhbmH553kGWPkFpnR12u``
