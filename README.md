@@ -1,7 +1,9 @@
-### Hola mundo! 👋
+### Hey! 👋
 
-I'm building [Criptonautas](https://criptonautas.co) crafting simple UI/UX, multi-language and AI plus ~8 years on crypto and trading with ~300 supporters who wanted to learn how to trade for life.
+I'm building [Criptonautas](https://criptonautas.co) the first crypto-trading community on Latam who is almost ready to ship the first (open-source) crypto-trading course on the planet.
 
-> You can ping me here but also on [Twitter](https://twitter.com/soycriptonauta) or Matrix (soon) 🛸
+We are working on simple UI/UX, multi-language and AI.
+
+> You can ping me and also on [Twitter](https://twitter.com/satonotdead).
 
 **XMR donations:** ``87S53AvDDTPVpuuxTZt9aXEp8PJw12sE2F5K1ZoXffz57HkvdfZRZK7d3Bsj3d6hw2L6kXsbG9DrhbmH553kGWPkFpnR12u``
